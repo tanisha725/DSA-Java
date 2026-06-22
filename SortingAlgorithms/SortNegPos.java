@@ -1,4 +1,4 @@
-//Given an array of positive and negative integers, segregate them in linear time and constant space. The output should print all negative numbers followed by all positive numbers.
+// Given an array of positive and negative integers, segregate them in linear time and constant space. The output should print all negative numbers followed by all positive numbers.
 public class SortNegPos{
   static void display(int[] nums){
     for(int val : nums){
